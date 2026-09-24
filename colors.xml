@@ -1,0 +1,12 @@
+<resources>
+ <color name="navy">#17324D</color>
+ <color name="navy_dark">#10263B</color>
+ <color name="gold">#C6A15B</color>
+ <color name="bg">#F6F8FB</color>
+ <color name="white">#FFFFFF</color>
+ <color name="text">#1C2733</color>
+ <color name="muted">#718096</color>
+ <color name="line">#E2E8F0</color>
+ <color name="success">#198754</color>
+ <color name="danger">#C0392B</color>
+</resources>
